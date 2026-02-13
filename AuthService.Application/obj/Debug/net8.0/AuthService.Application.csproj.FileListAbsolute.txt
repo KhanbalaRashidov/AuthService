@@ -1,0 +1,15 @@
+/Users/rafetaghabeyli/Desktop/Projects/LoyaApp/AuthService.Application/bin/Debug/net8.0/AuthService.Application.deps.json
+/Users/rafetaghabeyli/Desktop/Projects/LoyaApp/AuthService.Application/bin/Debug/net8.0/AuthService.Application.dll
+/Users/rafetaghabeyli/Desktop/Projects/LoyaApp/AuthService.Application/bin/Debug/net8.0/AuthService.Application.pdb
+/Users/rafetaghabeyli/Desktop/Projects/LoyaApp/AuthService.Application/bin/Debug/net8.0/AuthService.Domain.dll
+/Users/rafetaghabeyli/Desktop/Projects/LoyaApp/AuthService.Application/bin/Debug/net8.0/AuthService.Domain.pdb
+/Users/rafetaghabeyli/Desktop/Projects/LoyaApp/AuthService.Application/obj/Debug/net8.0/AuthService.Application.csproj.AssemblyReference.cache
+/Users/rafetaghabeyli/Desktop/Projects/LoyaApp/AuthService.Application/obj/Debug/net8.0/AuthService.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafetaghabeyli/Desktop/Projects/LoyaApp/AuthService.Application/obj/Debug/net8.0/AuthService.Application.AssemblyInfoInputs.cache
+/Users/rafetaghabeyli/Desktop/Projects/LoyaApp/AuthService.Application/obj/Debug/net8.0/AuthService.Application.AssemblyInfo.cs
+/Users/rafetaghabeyli/Desktop/Projects/LoyaApp/AuthService.Application/obj/Debug/net8.0/AuthService.Application.csproj.CoreCompileInputs.cache
+/Users/rafetaghabeyli/Desktop/Projects/LoyaApp/AuthService.Application/obj/Debug/net8.0/AuthServ.67992DEE.Up2Date
+/Users/rafetaghabeyli/Desktop/Projects/LoyaApp/AuthService.Application/obj/Debug/net8.0/AuthService.Application.dll
+/Users/rafetaghabeyli/Desktop/Projects/LoyaApp/AuthService.Application/obj/Debug/net8.0/refint/AuthService.Application.dll
+/Users/rafetaghabeyli/Desktop/Projects/LoyaApp/AuthService.Application/obj/Debug/net8.0/AuthService.Application.pdb
+/Users/rafetaghabeyli/Desktop/Projects/LoyaApp/AuthService.Application/obj/Debug/net8.0/ref/AuthService.Application.dll

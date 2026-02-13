@@ -1,0 +1,11 @@
+/Users/rafetaghabeyli/Desktop/Projects/LoyaApp/AuthService.Domain/bin/Debug/net8.0/AuthService.Domain.deps.json
+/Users/rafetaghabeyli/Desktop/Projects/LoyaApp/AuthService.Domain/bin/Debug/net8.0/AuthService.Domain.dll
+/Users/rafetaghabeyli/Desktop/Projects/LoyaApp/AuthService.Domain/bin/Debug/net8.0/AuthService.Domain.pdb
+/Users/rafetaghabeyli/Desktop/Projects/LoyaApp/AuthService.Domain/obj/Debug/net8.0/AuthService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafetaghabeyli/Desktop/Projects/LoyaApp/AuthService.Domain/obj/Debug/net8.0/AuthService.Domain.AssemblyInfoInputs.cache
+/Users/rafetaghabeyli/Desktop/Projects/LoyaApp/AuthService.Domain/obj/Debug/net8.0/AuthService.Domain.AssemblyInfo.cs
+/Users/rafetaghabeyli/Desktop/Projects/LoyaApp/AuthService.Domain/obj/Debug/net8.0/AuthService.Domain.csproj.CoreCompileInputs.cache
+/Users/rafetaghabeyli/Desktop/Projects/LoyaApp/AuthService.Domain/obj/Debug/net8.0/AuthService.Domain.dll
+/Users/rafetaghabeyli/Desktop/Projects/LoyaApp/AuthService.Domain/obj/Debug/net8.0/refint/AuthService.Domain.dll
+/Users/rafetaghabeyli/Desktop/Projects/LoyaApp/AuthService.Domain/obj/Debug/net8.0/AuthService.Domain.pdb
+/Users/rafetaghabeyli/Desktop/Projects/LoyaApp/AuthService.Domain/obj/Debug/net8.0/ref/AuthService.Domain.dll
