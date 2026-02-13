@@ -1,4 +1,4 @@
-﻿version: '3.8'
+version: '3.8'
 
 services:
   postgres:
@@ -13,16 +13,18 @@ services:
     volumes:
       - postgres_data:/var/lib/postgresql/data
     healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      test: ["CMD-SHELL", "pg_isready -U postgres -d AuthServiceDb"]
       interval: 5s
       timeout: 5s
       retries: 5
     restart: unless-stopped
+    networks:
+      - authservice-network
 
   api:
     build:
       context: .
-      dockerfile: Dockerfile
+      dockerfile: AuthService.Api/Dockerfile
     container_name: authservice-api
     environment:
       - ASPNETCORE_ENVIRONMENT=Production
@@ -37,6 +39,12 @@ services:
       postgres:
         condition: service_healthy
     restart: unless-stopped
+    networks:
+      - authservice-network
+
+networks:
+  authservice-network:
+    driver: bridge
 
 volumes:
   postgres_data:
